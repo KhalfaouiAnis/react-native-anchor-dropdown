@@ -1,5 +1,10 @@
 # react-native-anchor-dropdown
 
+[![npm](https://img.shields.io/npm/v/react-native-anchor-dropdown)](https://www.npmjs.com/package/react-native-anchor-dropdown)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/react-native-anchor-dropdown)](https://bundlephobia.com/package/react-native-anchor-dropdown)
+[![downloads](https://img.shields.io/npm/dw/react-native-anchor-dropdown)](https://www.npmjs.com/package/react-native-anchor-dropdown)
+[![license](https://img.shields.io/npm/l/react-native-anchor-dropdown)](./LICENSE)
+
 A lightweight, headless hook and component for anchor-positioned dropdowns in React Native.
 
 Automatically flips above or below the trigger based on available screen space, with dynamic height — no fixed sizes needed.
