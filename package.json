@@ -1,6 +1,6 @@
 {
   "name": "react-native-anchor-dropdown",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "sideEffects": false,
   "description": "A lightweight, headless hook and component for anchor-positioned dropdowns in React Native",
   "author": "khalfaouianis",
