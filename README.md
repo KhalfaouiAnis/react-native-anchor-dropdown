@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/npm/l/react-native-anchor-dropdown)](./LICENSE)
 
 If this saved you some time, a ⭐ on GitHub goes a long way — thank you!
-[![GitHub stars](https://img.shields.io/github/stars/your-username/react-native-anchor-dropdown?style=social)](https://github.com/your-username/react-native-anchor-dropdown)
+[![GitHub stars](https://img.shields.io/github/stars/KhalfaouiAnis/react-native-anchor-dropdown?style=social)](https://github.com/KhalfaouiAnis/react-native-anchor-dropdown)
 
 A lightweight, headless hook and component for anchor-positioned dropdowns in React Native.
 
